@@ -1,4 +1,4 @@
-<h2 align="left">Hello everyone, sometimes I share my projects</h2>
+<h2 align="left">Hello friend :)</h2>
 
 ###
 
