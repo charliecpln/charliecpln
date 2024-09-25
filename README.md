@@ -1,4 +1,4 @@
-<h2 align="left">Hello friend :)</h2>
+<h2 align="left">Hello Friend</h2>
 
 ###
 
@@ -8,8 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
